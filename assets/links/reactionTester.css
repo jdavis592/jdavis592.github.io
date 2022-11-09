@@ -1,0 +1,19 @@
+    #timeLine {
+    	font-weight: bold;
+    }
+
+    .afterStart {
+    	display: none;
+    }
+
+    #shape {
+    	width: 200px;
+    	height: 200px;
+    	background-color: red;
+    	display: none;
+    	position: relative;
+    }
+
+    body {
+    	font-family: sans-serif;
+    }
